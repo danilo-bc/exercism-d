@@ -1,3 +1,9 @@
+# My personal exercism folder
+.exercism
+
+# Other users' folders
+users/
+
 # Compiled Object files
 *.o
 *.obj
